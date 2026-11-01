@@ -1,0 +1,14 @@
+{
+  "modules": [
+    {
+      "id": "llm",
+      "name": "LLM API",
+      "kicker": "чат",
+      "description": "Удалённый OpenAI-совместимый API через VPN. Локальная модель на колонке не запускается.",
+      "url": "",
+      "sha256": "",
+      "bundled": true,
+      "needs": ["vpn"]
+    }
+  ]
+}

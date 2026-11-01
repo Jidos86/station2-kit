@@ -1,0 +1,9 @@
+{
+  "version": "0.0.2",
+  "notes": "Скрыта плитка модулей. Канал обновлений GitHub.",
+  "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
+  "core_sha256": "40e992ce67e47d8a2a3786e9e9282a0d3d19736fca3be8939079219da5ff467f",
+  "blobs_url": "",
+  "blobs_sha256": "",
+  "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
+}
