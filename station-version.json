@@ -1,8 +1,8 @@
 {
-  "version": "0.0.8",
-  "notes": "Маленькое ядро: tar починен, архивы не забивают диск. Голос: «поставь альбом …».",
+  "version": "0.0.9",
+  "notes": "Голос: ждём idle перед play, уже перехват Luna, альбомы.",
   "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
-  "core_sha256": "11ecbd38b69637ccbd0ef09675fe5700c65a3ebaeb92177fd4c8e736ca21ed45",
+  "core_sha256": "f17e411b0813a25c466f7d4c7786386d66a10ffbb657facd8bcf207a6d608e64",
   "blobs_url": "",
   "blobs_sha256": "",
   "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
