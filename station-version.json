@@ -1,8 +1,8 @@
 {
-  "version": "0.0.5",
-  "notes": "Голос: не рвёт play пока Алиса слушает; глушит «нужна подписка»; вход Spotify с панели; громкость Connect (скрипты шины).",
+  "version": "0.0.6",
+  "notes": "В ядро добавлены soloist-mpris и bt-proxy — ползунок громкости в Spotify. Голос и панель как в 0.0.5.",
   "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
-  "core_sha256": "762ab6bdce9e7a89cce62d1a9ded1a43ad86cac5e57d15366699219d39090814",
+  "core_sha256": "58084ed39d55d54871af17adabff8b45e8c4a259697f8004a0be7b20da712c3b",
   "blobs_url": "",
   "blobs_sha256": "",
   "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
