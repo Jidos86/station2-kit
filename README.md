@@ -1,8 +1,12 @@
 # station2-kit
 
-Канал обновлений панели Яндекс Станции 2 (не прошивка колонки).
+Канал обновлений и установка для Яндекс Станции 2 (не прошивка колонки).
 
-Релиз кладёт `station-version.json` и `station-core.tar` — скрипты и веб-панель, **без** бинарников Soloist/Xray и без ключей.
+В релизе:
+
+- `station-core.tar` — полное ядро: Soloist, Xray, Luna, AP2, mpris/громкость, скрипты и панель. **Без ключей** (Soloist API, Spotify OAuth, VPN, приватный SSH).
+- `station-kit.zip` — то же плюс `install.cmd` для Windows.
+- `station-version.json` — манифест для панели колонки.
 
 Колонка проверяет:
 

@@ -1,8 +1,8 @@
 {
-  "version": "0.0.6",
-  "notes": "В ядро добавлены soloist-mpris и bt-proxy — ползунок громкости в Spotify. Голос и панель как в 0.0.5.",
+  "version": "0.0.7",
+  "notes": "Полное ядро в обновлении: Soloist, Xray, Luna, AP2, mpris. Без ключей.",
   "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
-  "core_sha256": "58084ed39d55d54871af17adabff8b45e8c4a259697f8004a0be7b20da712c3b",
+  "core_sha256": "840e8c1574f8166ff078ed27014056870baad842dd67af7092e2ad85b9c4a7d1",
   "blobs_url": "",
   "blobs_sha256": "",
   "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
