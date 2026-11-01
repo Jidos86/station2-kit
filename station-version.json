@@ -1,8 +1,8 @@
 {
-  "version": "0.0.7",
-  "notes": "Полное ядро в обновлении: Soloist, Xray, Luna, AP2, mpris. Без ключей.",
+  "version": "0.0.8",
+  "notes": "Маленькое ядро: tar починен, архивы не забивают диск. Голос: «поставь альбом …».",
   "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
-  "core_sha256": "840e8c1574f8166ff078ed27014056870baad842dd67af7092e2ad85b9c4a7d1",
+  "core_sha256": "11ecbd38b69637ccbd0ef09675fe5700c65a3ebaeb92177fd4c8e736ca21ed45",
   "blobs_url": "",
   "blobs_sha256": "",
   "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
