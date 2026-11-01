@@ -1,5 +1,13 @@
 # station2-kit
 
+**Файлы для установки не в дереве git — они в [Releases](https://github.com/Jidos86/station2-kit/releases).** С главной репозитория (вкладка Code) видны только README и манифест.
+
+| Скачать | Зачем |
+|---|---|
+| **[station-kit.zip](https://github.com/Jidos86/station2-kit/releases/latest/download/station-kit.zip)** | полная установка: `install.cmd` + Soloist, Xray, Luna |
+| [station-core.tar](https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar) | ядро для кнопки «обновить» на панели колонки |
+| [Все релизы](https://github.com/Jidos86/station2-kit/releases) | список версий |
+
 Spotify (Soloist), голос Алисы в Spotify, VPN и веб-панель для **уже взломанной** Яндекс Станции 2.
 
 Это не прошивка колонки и не способ получить root. Основы доступа к станции (root, SSH, отключение облачных обновлений Яндекса) взяты из открытой вики **[Yandex Station Extended](https://hackalice.me/)** и чата [@hackalice](https://t.me/hackalice). Без этого кит не ставится.
