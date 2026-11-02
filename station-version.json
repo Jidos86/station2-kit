@@ -1,8 +1,8 @@
 {
-  "version": "0.0.10",
-  "notes": "Громкость: меньше прыжков Master ↔ Spotify Connect.",
+  "version": "0.0.11",
+  "notes": "Громкость: MPRIS не откатывает Master с панели; volume-sync пишет authority.",
   "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
-  "core_sha256": "47bf96ef6431aa0752ef3c6fa4f9713ba90b055384a89d49d105ab6009780906",
+  "core_sha256": "2da2f166538c11b78388ec1d29db100000ba77201a0ca3421bb9334bd5700095",
   "blobs_url": "",
   "blobs_sha256": "",
   "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
