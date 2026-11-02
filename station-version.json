@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9",
-  "notes": "Голос: ждём idle перед play, уже перехват Luna, альбомы.",
+  "version": "0.0.10",
+  "notes": "Громкость: меньше прыжков Master ↔ Spotify Connect.",
   "core_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/station-core.tar",
-  "core_sha256": "f17e411b0813a25c466f7d4c7786386d66a10ffbb657facd8bcf207a6d608e64",
+  "core_sha256": "47bf96ef6431aa0752ef3c6fa4f9713ba90b055384a89d49d105ab6009780906",
   "blobs_url": "",
   "blobs_sha256": "",
   "catalog_url": "https://github.com/Jidos86/station2-kit/releases/latest/download/catalog.json"
